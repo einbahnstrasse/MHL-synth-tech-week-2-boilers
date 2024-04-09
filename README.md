@@ -1,4 +1,4 @@
-# bach.roll.boiler.v01  
+# MHL-synth-tech-week-2-boilers     
 #### for student in _Sound Synthesis Techniques and Creative Coding_   
 
 Download this folder by clicking on the green `<>Code` button (above),   
